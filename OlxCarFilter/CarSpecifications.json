@@ -1,0 +1,60 @@
+{
+  "CarState": "NewAndUsed",
+  "CarBrand": "All",
+  "PriceFrom": "15000",
+  "PriceTo": "25000",
+  "Location": "All",
+  "YearFrom": "2012",
+  "YearTo": "2022",
+  "MileageFrom": "HundredFifty",
+  "MileageTo": "ThreeHundred",
+  "Fuels": [
+    "Diesel"
+  ],
+  "HorsePowerFrom": "100",
+  "HorsePowerTo": "150",
+  "KilowattFrom": "50",
+  "KilowattTo": "100",
+  "KubikageFrom": "OneFive",
+  "KubikageTo": "TwoFive",
+  "MotorDriveMethods": [
+    "FrontWheelDrive"
+  ],
+  "Transmissions": [
+    "Automatic",
+    "SemiAutomatic"
+  ],
+  "AmountOfDoors": [
+    "Four"
+  ],
+  "Sensors": [
+    "FrontAndBackSensors"
+  ],
+  "CarTypes": [
+    "SmallCar",
+    "Limousine"
+  ],
+  "CarColors": [
+    "Black",
+    "White",
+    "Gray",
+    "Silver"
+  ],
+  "CarGears": [
+    "Five",
+    "Six",
+    "Seven"
+  ],
+  "RimSizes": [
+    "Sixteen",
+    "Seventeen"
+  ],
+  "SoundSystems": [
+    "DvdMp3WithLcdScreen"
+  ],
+  "SecurityBlockades": [
+    "SteeringWheelBlockade", 
+    "WheelBlockade",
+    "ElectricBlockade"
+  ]
+}
