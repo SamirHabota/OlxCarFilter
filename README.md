@@ -1,6 +1,6 @@
 # OlxCarFilter
 
-This project is based around the popular website: https://www.olx.ba
+This project is based around the popular website https://www.olx.ba
 
 Instead of always manually clicking and filling in desired car filters, run this simple Selenium based project to do it for you.
 
@@ -12,6 +12,8 @@ The program will ask you to do the filtering completely **automatically**.
 If the search is done completely automatically, the program will click the search button for you, as well as copy the filtered url to your clipboard and show you exaclty how many matching results there are.
 
 If not, the program will still fill in all your desired filters, but wait on you to manually click the search button, for some on the fly changes or verifications.
+
+The project is completely modular and can be taken further from this point, implementing custom notifications, analytics and much more.
 
 <br/>
 <table>
